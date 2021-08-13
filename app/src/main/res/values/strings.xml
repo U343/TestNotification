@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestNotification</string>
+
+    <string name="notification_title">Test Timer</string>
+    <string name="notification_channel_id" translatable="false">test_channel</string>
+    <string name="notification_channel_name" translatable="true">test_name</string>
+    <string name="notification_ready">It is time! Notification here!</string>
+    <string name="notification_channel_description">Channel description</string>
+</resources>
